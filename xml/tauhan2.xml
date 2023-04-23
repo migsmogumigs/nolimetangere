@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tauhan>
+	<list
+		value="Crisostomo Ibarra"
+		line="Kahit ako’y kalimutan ng aking bayan, sa lahat ng sandali’y inaalala ko siya."
+		desc="Si Crisostomo Ibarra ay binatang anak ni Don Rafael Ibarra na nag-aral sa Europa. Siya ang kababata at kasintahan ni Maria Clara."
+		image="ibarra"
+	/>
+	<list
+		value="Elias"
+		line="May dala po akong pakiusap ng maraming sawimpalad."
+		desc="Si Elias ay piloto o bangkero. Siya ang tumulong kay Ibarra para makilala ang kanyang bayan at ang mga suliranin nito."
+		image="elias"
+	/>
+	<list
+		value="Maria Clara"
+		line="Nang dahil sa aking pag-ibig ay dapat ko bang limutin ang alaala ng aking ina, ang karangalan ng aking ama sa turing?"
+		desc="Si Maria Clara ay mayuming kasintahan ni Crisostomo Ibarra. Siya ang anak ni Donya Pia Alba kay Padre Damaso."
+		image="mariaclara"
+	/>
+	<list
+		value="Padre Damaso"
+		line="Kapag ang kura’y nagpahukay ng isang bangkay ng isang erehe, kahit na ang hari’y walang karapatang makialam ni magparusa."
+		desc="Si Padre Damaso ay isang  paring Pransiskano na matapos maglingkod nang mahabang panahon sa San Diego ay naipalipat sa ibang parokya. Siya ang tunay na ama ni Maria Clara."
+		image="damaso"
+	/>
+	<list
+		value="Padre Salvi"
+		line="Basahin ninyo ang banal na aklat, at makikita ninyong marami ang gumaling sa pangungumpisal."
+		desc="Si Padre Salvi ay humalili kay Padre Damaso bilang pari ng San Diego. Siya ay may lihim na pagsinta kay Maria Clara."
+		image="salvi"
+	/>
+	<list
+		value="Padre Sibyla"
+		line="Mapapangasawa ni Maria Clara si Ibarra. Mayaman siya at inaasahan kong hindi niya iibigin ang magkaroon ng sinumang kagalit na maaaring makahadlang sa kanyang kayamanan at kaligayahan."
+		desc="Si Padre Sibyla ay paring lihim na sumusubaybay sa mga kilos ni Crisostomo Ibarra."
+		image="sibyla"
+	/>
+	<list
+		value="Pilosopo Tasyo"
+		line="Ang baya’y hindi dumaraing sapagkat pipi, natutulog kaya hindi kumikilos. Ang pagdurusa niya’y hindi ninyo nakikita."
+		desc="Si Pilosopo Tasyo ay maalam na matandang tagapayo ng mga mamamayan ng San Diego."
+		image="tasyo"
+	/>
+	<list
+		value="Tenyente Guevarra"
+		line="Dito po’y kailangang mabilanggo upang maging marangal."
+		desc="Si Tenyente Guevarra ay isang matapat na tenyente ng mga guwardiya sibil. "
+		image="guevarra"
+	/>
+	<list
+		value="Kapitan Tiago"
+		line="Tingnan mo ako anak, ako’y higit na sawimpalad kaysa iyo ngunit hindi ako umiiyak."
+		desc="Si Kapitan Tiago ay asawa ni Donya Pia Alba. Siya ang nakagisnang ama ni Maria Clara."
+		image="tiago"
+	/>
+	<list
+		value="Tiya Isabel"
+		line="Mag-uukol ka sa kanya ng ibang katipan? Akala mo ba'y magagawa ng anak mo iyan na para lamang nagpalit ng damit?"
+		desc="Si Tiya Isabel ay hipag ni Kapitan Tiago. Siya ang tumulong sa pagpapalaki kay Maria Clara."
+		image="isabel"
+	/>
+	<list
+		value="Sisa"
+		line="Nakikita mo ba yaong mga ilaw sa kampanaryo? Naroroon sina Basilio at Crispin ngunit di ko dinadalaw si Crispin dahil sa may sakit ang kura."
+		desc="Si Sisa ay ina nina Crispin at Basilio. Siya ay martir na asawa ni Pedro na pabaya at malupit sa kanyang pamilya."
+		image="sisa"
+	/>
+	<list
+		value="Basilio"
+		line="Hindi ba mabuting tayong tatlo na lamang ang magsama-sama%E2%80%94kayo, si Crispin at saka ako?"
+		desc="Si Basilio ay nakatatandang anak ni Sisa. Siya ay isang sakristan at tagatugtog ng kampana sa simbahan ng San Diego."
+		image="basilio"
+	/>
+	<list
+		value="Crispin"
+		line="Sana ay nasa bahay tayo at kasama si Inang, hindi nila ako mapagbibintangang nagnakaw."
+		desc="Si Crispin ay nakababatang anak ni Sisa. Siya ay isang sakristan at tagatugtog ng kampana sa simbahan ng San Diego."
+		image="crispin"
+	/>
+	<list
+		value="Donya Victorina de Espada%C3%B1a"
+		line="Kilalanin ninyo ang inyong kaharap! Hindi ito probinsiyana o kalunya ng sundalo!"
+		desc="Si Donya Victorina de Espadaña ay asawa ni Don Tiburcio de Espadaña. Nagpapanggap siyang isang mestisang Kastila."
+		image="victorina"
+	/>
+	<list
+		value="Don Tiburcio de Espada%C3%B1a"
+		line="Ma – may – sakit, ngunit mapapagaling. Bigyan ng liquen na may gatas sa umaga, jarabe de altea, at dalawang pildoras de cinoglosa."
+		desc="Si Don Tiburcio de Espadaña ay isang pilay at bungal na Kastilang napadpad sa Pilipinas sa paghahanap ng magandang kapalaran. Siya ay napangasawa ni Donya Victorina."
+		image="tiburcio"
+	/>
+	<list
+		value="Alfonso Linares"
+		line="Kasumpa-sumpang sandali ang pagsunod ko sa kanyang payo. Sino ang nag-utos sa aking magpalalo at magsinungaling?"
+		desc="Si Alfonso Linares ay malayong pamangkin ni Don Tiburcio. Siya ay pinsan ng inaanak ni Padre Damaso na napili niya para mapangasawa ni Maria Clara."
+		image="linares"
+	/>
+	<list
+		value="Don Rafael Ibarra"
+		line="Ikaw ay lalaki kaya’t katungkulan mong matutuhan kung ano ang buhay at nang mapaglingkuran mo ang iyong bayang pinagkakautangan ng lahat."
+		desc="Si Don Rafel Ibarra ay ama ni Crisostomo Ibarra. Dahil sa kanyang yaman, kinainggitan at tinawag siyang erehe ni Padre Damaso."
+		image="donrafael"
+	/>
+	<list
+		value="Alperes"
+		line="Kung hindi lamang kayo babae ay nabugbog ko na sana kayo ng sipa!"
+		desc="Ang Alperes ay pinuno ng mga guwardiya sibil. Siya ay mahigpit na kaagaw ng kura sa kapangyarihan sa San Diego."
+		image="alperes"
+	/>
+	<list
+		value="Donya Consolacion"
+		line="Aba! Excelentisima Se%C3%B1ora Pupot!"
+		desc="Si Donya Consolacion ay asawa ng Alperes. Siya ay dating labandera na may malaswang bibig at pag-uugali."
+		image="consolacion"
+	/>
+	<list
+		value="Kapitan Heneral"
+		line="Huwag kayong mabahala ni magtanim sapagkat hindi kayo maaano hangga’t ako ang namamahala rito sa Pilipinas."
+		desc="Ang Kapitan Heneral ay ang pinakamakapangyarihan sa Pilipinas. Siya ang lumakad na maalisan ng pagka-ekskomunyon si Ibarra."
+		image="kapheneral"
+	/>
+		<list
+		value="Don Filipo Lino"
+		line="Magbitiw? Magbitiw, tama, kung ang katungkulang ito ay isang karangalan sana at di isang pasanin!"
+		desc="Si Don Filipo Lino ay tenyente mayor ng San Diego."
+		image="filipolino"
+	/>
+	<list
+		value="Tandang Pablo"
+		line="Ang mayayaman ay walang naiisip kundi ang magpayaman."
+		desc="Si Tandang Pablo ay pinuno ng mga tulisan na ibig tulungan ni Elias."
+		image="pablo"
+	/>
+	<list
+		value="Lucas"
+		line="Ngunit kapag malaki ang ibabayad mo ay magkaibigan tayo."
+		desc="Si Lucas ay kapatid ng gumawa ng panghugos na ginamit sa di-natuloy na pagpatay kay Ibarra."
+		image="lucas"
+	/>
+	<list
+		value="Tarsilo"
+		line="Huwag ninyong pakialaman ang aming buhay.  Iyan ay humantong sa kamatayan."
+		desc="Si Tarsilo ay panganay na anak ng lalaking napatay sa pambubugbog ng mga guwardiya sibil."
+		image="tarsilo"
+	/>
+	<list
+		value="Bruno"
+		line="Sumang-ayon na tayo. Ang mabitay at mabaril ay iisa lamang."
+		desc=" Si Bruno ay nakababatang anak ng lalaking napatay sa pambubugbog ng mga guwardiya sibil."
+		image="bruno"
+	/>
+	<list
+		value="Pedro"
+		line="Ang aking mga anak ay nangawala at ang aking asawa’y nasiraan ng isip. Ang sabi ng iba’y tama lang na iyan ang kapalaran ko."
+		desc=" Si Pedro ay ang malupit na asawa ni Sisa na walang inaatupag kundi ang pagsusugal."
+		image="pedro"
+	/>
+	<list
+		value="Ang Guro"
+		line="Sa kalagayan po natin ngayon, upang mapabuti ang pagtuturo, kailangang magkaroon ng pagtutulungan."
+		desc="Ang Guro ay ang taong kinausap ni Ibarra upang malaman ang suliranin ng paaralan sa kanyang bayan."
+		image="guro"
+	/>
+	<list
+		value="Nyor Juan"
+		line="Nababatid ba ninyo ang aming itatayo? Ito’y isang malaking paaralan."		desc="Si Nyor Juan ang namahala ng mga gawain sa pagpapatayo ng paaralan."
+		image="nyorjuan"
+	/>
+
+</tauhan>
